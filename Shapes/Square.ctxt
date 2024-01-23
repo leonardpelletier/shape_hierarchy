@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Square
+comment1.params=color\ filled\ sideLength
+comment1.target=Square(java.lang.String,\ boolean,\ double)
+numComments=2
